@@ -1,2 +1,2 @@
-name = "kade"
-IO.puts(name)
+message = "Hello Elixir"
+IO.puts(message)
